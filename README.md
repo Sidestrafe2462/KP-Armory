@@ -1,15 +1,62 @@
 # Kerbal Powers Armory
 A series of BD parts created for the game Kerbal Powers, by Spartwo and MiffedStarfish.
+main image here
 
 -------------------------------------------------------
 ## Parts List
-### Naval Guns
 
+### Radar Systems
+[Image]
+* SNOOP-7(V)3 Large Phased Array Radar
+* SNOOP-7(V)1 Small Phased Array Radar
+* SNOOP-R(V)4 Mobile Phased Array Radar
+* "EsperiEye" AEW&C Radar
+* "SIMPSON" Multi-Function Radar
+
+### Naval Arms
 ![alt text](https://wiki.kerbalpowers.org/images/e/ec/KP_Armory_2.png)
-![alt text](https://wiki.kerbalpowers.org/images/f/f6/KP_Armory.png)
-![alt text](https://i.imgur.com/JKCSl2w.png)
+* 40mm Mk4 Naval Gun
+* 57mm Mk3 Naval Gun
+* 76mm Mk62 Naval Gun
+* 127mm Mk4 Naval Gun
+* 155mm Mk51 Primitive Gun System
+* Mk141 "Gaff" Launch Tube
 
-### Naval Guns
+### Ground Vehicle Systems
+![alt text](https://wiki.kerbalpowers.org/images/f/f6/KP_Armory.png)
+* "Neolidas" High-Powered Microwave
+* KP41 "Axe" IFV Turret
+  
+### Air-Launched Missiles
+[Image]
+* AIM-160 CUDA Kinetic A2A Missile
+* AGM-114R-9X Hellfire "Slapchop" Kinetic ATGM
+[Image]
+* SRA-1239 "Meteor" Extended-Range Radar A2A Missile
+* SRA-132 "Comet" Infared A2A Missile
+* SRS-2003 "Shadow Realm" Cruise Missile
+* SRS-1238 "Brimstone" ATGM
+* SRS-30 "Sulfur" Small Diameter Cruise Missile
+
+### Ground-Launched Missiles
+[Image]
+* BIM-40 "Dingo" Missile
+ 
+### Bombs
+[Image]
+* GBU-30 "Sulfur" Small Diameter Glide Bomb
+* SUU-14/A Drogue Bomblet Dispenser
+* Mk84/Mk83/Mk82 JDAM-ER
+* Mk84/Mk82 JDAM
+* Mk83/Mk84 SnakeEye
+* Mk83/Mk84 
+
+### Remodels
+[Image]
+* BD Extended | AIM-54 Phoenix
+* BD Extended | R3r Flogger
+* BD Armory | AIM-120 AMRAAM
+* BD Armroy | AGM-114 Hellfire
 -------------------------------------------------------
 
 *All mods are compatible with Waterfall and TURD. Paint for KP Armory can be found bundled with TURD for BD Armory  [here](https://github.com/Spartwo/TURD-BDArmory).*
