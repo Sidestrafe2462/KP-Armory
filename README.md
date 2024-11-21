@@ -15,13 +15,6 @@ main image here
   
 ### Targeting Systems
 [Image]
-* SNOOP-7(V)3 Large Phased Array Radar
-* SNOOP-7(V)1 Small Phased Array Radar
-* SNOOP-R(V)4 Mobile Phased Array Radar
-* "EsperiEye" AEW&C Radar
-* "SIMPSON" Multi-Function Radar
-  
-[Image]
 
 ### Naval Systems
 ![alt text](https://wiki.kerbalpowers.org/images/e/ec/KP_Armory_2.png)
