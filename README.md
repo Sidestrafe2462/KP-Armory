@@ -1,13 +1,15 @@
-A series of mods created for the game Kerbal Powers, by Spartwo and MiffedStarfish.
+# Kerbal Powers Armory
+A series of BD parts created for the game Kerbal Powers, by Spartwo and MiffedStarfish.
 
 -------------------------------------------------------
-### Kerbal Powers Armory
+## Parts List
+### Naval Guns
 
 ![alt text](https://wiki.kerbalpowers.org/images/e/ec/KP_Armory_2.png)
 ![alt text](https://wiki.kerbalpowers.org/images/f/f6/KP_Armory.png)
 ![alt text](https://i.imgur.com/JKCSl2w.png)
-An addon for BDArmory. Adds five naval guns with two variant designs, two new radars with unique functionality, a high-powered microwave turret, additional yields of bomb, and a smaller smoke countermeasure launcher variant.
 
+### Naval Guns
 -------------------------------------------------------
 
 *All mods are compatible with Waterfall and TURD. Paint for KP Armory can be found bundled with TURD for BD Armory  [here](https://github.com/Spartwo/TURD-BDArmory).*
