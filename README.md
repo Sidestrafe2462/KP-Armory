@@ -31,6 +31,7 @@ main image here
 [Image]
 * AIM-160 CUDA Kinetic A2A Missile
 * AGM-114R-9X Hellfire "Slapchop" Kinetic ATGM
+  
 [Image]
 * SRA-1239 "Meteor" Extended-Range Radar A2A Missile
 * SRA-132 "Comet" Infared A2A Missile
