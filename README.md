@@ -12,14 +12,26 @@ main image here
 * SNOOP-R(V)4 Mobile Phased Array Radar
 * "EsperiEye" AEW&C Radar
 * "SIMPSON" Multi-Function Radar
+  
+### Targeting Systems
+[Image]
+* SNOOP-7(V)3 Large Phased Array Radar
+* SNOOP-7(V)1 Small Phased Array Radar
+* SNOOP-R(V)4 Mobile Phased Array Radar
+* "EsperiEye" AEW&C Radar
+* "SIMPSON" Multi-Function Radar
+  
+[Image]
 
-### Naval Arms
+### Naval Systems
 ![alt text](https://wiki.kerbalpowers.org/images/e/ec/KP_Armory_2.png)
 * 40mm Mk4 Naval Gun
 * 57mm Mk3 Naval Gun
 * 76mm Mk62 Naval Gun
 * 127mm Mk4 Naval Gun
 * 155mm Mk51 Primitive Gun System
+  
+[Image]
 * Mk141 "Gaff" Launch Tube
 
 ### Ground Vehicle Systems
@@ -41,7 +53,6 @@ main image here
 
 ### Ground-Launched Missiles
 [Image]
-* BIM-40 "Dingo" Missile
  
 ### Bombs
 [Image]
@@ -55,7 +66,6 @@ main image here
 ### Remodels
 [Image]
 * BD Extended | AIM-54 Phoenix
-* BD Extended | R3r Flogger
 * BD Armory | AIM-120 AMRAAM
 * BD Armroy | AGM-114 Hellfire
 -------------------------------------------------------
