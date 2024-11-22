@@ -19,7 +19,12 @@ main image here
 
 ### Naval Systems
 ![alt text](https://wiki.kerbalpowers.org/images/e/ec/KP_Armory_2.png)
-  
+* 40mm Mk4 Naval Gun
+* 57mm Mk3 Naval Gun
+* 76mm Mk62 Naval Gun
+* 127mm Mk4 Naval Gun
+* 155mm Mk51 Primitive Gun System  
+
 [Image]
 * Mk141 "Gaff" Launch Tube
 
