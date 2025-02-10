@@ -40,6 +40,7 @@ main image here
 * SRS-2003 "Shadow Realm" Cruise Missile
 * SRS-1238 "Brimstone" ATGM
 * SRS-30 "Sulfur" Small Diameter Cruise Missile
+* SRA-404 "Sulfur-EW" Electronic Warfare System
 
 ### Surface Launched Missiles
 [Coming Soon]
