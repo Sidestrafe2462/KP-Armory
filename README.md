@@ -61,8 +61,7 @@ main image here
 * BD Armroy | AGM-114 Hellfire
 -------------------------------------------------------
 
-*All mods are compatible with Waterfall and TURD. Paint for KP Armory can be found bundled with TURD for BD Armory  [here](https://github.com/Spartwo/TURD-BDArmory).*
-
+*Compatible with TURD. Paint for KP Armory can be found bundled with TURD for BD Armory  [here](https://github.com/Spartwo/TURD-BDArmory).*
 
 -------------------------------------------------------
 
