@@ -18,7 +18,7 @@ main image here
 [Image]
 
 ### Naval Systems
-![alt text](https://wiki.kerbalpowers.org/images/e/ec/KP_Armory_2.png)
+![Image](https://wiki.kerbalpowers.org/images/e/ec/KP_Armory_2.png)
 * 40mm Mk4 Naval Gun
 * 57mm Mk3 Naval Gun
 * 76mm Mk62 Naval Gun
@@ -29,12 +29,12 @@ main image here
 * Mk141 "Gaff" Launch Tube
 
 ### Ground Vehicle Systems
-![alt text](https://wiki.kerbalpowers.org/images/f/f6/KP_Armory.png)
+![Image](https://wiki.kerbalpowers.org/images/f/f6/KP_Armory.png)
 * "Neolidas" High-Powered Microwave
 * KP41 "Axe" IFV Turret
   
 ### Air-Launched Missiles
-[Image](https://wiki.kerbalpowers.org/images/d/d5/KP_Armory_4.png)
+![Image](https://wiki.kerbalpowers.org/images/d/d5/KP_Armory_4.png)
 * AIM-160 CUDA Kinetic A2A Missile
 * AGM-114R-9X Hellfire "Slapchop" Kinetic ATGM
   
