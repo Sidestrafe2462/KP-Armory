@@ -34,7 +34,7 @@ main image here
 * KP41 "Axe" IFV Turret
   
 ### Air-Launched Missiles
-[Image]
+[Image](https://wiki.kerbalpowers.org/images/d/d5/KP_Armory_4.png)
 * AIM-160 CUDA Kinetic A2A Missile
 * AGM-114R-9X Hellfire "Slapchop" Kinetic ATGM
   
