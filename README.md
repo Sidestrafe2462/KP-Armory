@@ -15,18 +15,14 @@ main image here
 * "SIMPSON" Multi-Function Radar
   
 ### Targeting Systems
-[Image]
+[Coming Soon]
 
 ### Naval Systems
 ![Image](https://wiki.kerbalpowers.org/images/e/ec/KP_Armory_2.png)
-* 40mm Mk4 Naval Gun
-* 57mm Mk3 Naval Gun
-* 76mm Mk62 Naval Gun
-* 127mm Mk4 Naval Gun
-* 155mm Mk51 Primitive Gun System  
 
 [Image]
 * Mk141 "Gaff" Launch Tube
+* SUU-14/A Drogue Bomblet Dispenser
 
 ### Ground Vehicle Systems
 ![Image](https://wiki.kerbalpowers.org/images/f/f6/KP_Armory.png)
@@ -45,13 +41,12 @@ main image here
 * SRS-1238 "Brimstone" ATGM
 * SRS-30 "Sulfur" Small Diameter Cruise Missile
 
-### Ground-Launched Missiles
-[Image]
+### Surface Launched Missiles
+[Coming Soon]
  
 ### Bombs
 [Image]
 * GBU-30 "Sulfur" Small Diameter Glide Bomb
-* SUU-14/A Drogue Bomblet Dispenser
 * Mk84/Mk83/Mk82 JDAM-ER
 * Mk84/Mk82 JDAM
 * Mk83/Mk84 SnakeEye
@@ -60,6 +55,7 @@ main image here
 ### Remodels
 [Image]
 * BD Extended | AIM-54 Phoenix
+* BD Extended | R-3R Flogger
 * BD Armory | AIM-120 AMRAAM
 * BD Armroy | AGM-114 Hellfire
 -------------------------------------------------------
