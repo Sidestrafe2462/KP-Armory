@@ -43,7 +43,10 @@ main image here
 * SRA-404 "Sulfur-EW" Electronic Warfare System
 
 ### Surface Launched Missiles
-[Coming Soon]
+[Image]
+* MGM-30 Guided Rocket Launch System
+* MGM-140 Clustered Ammunition Rocket System
+* MGM-250 Precision Strike Rocket
  
 ### Bombs
 [Image]
