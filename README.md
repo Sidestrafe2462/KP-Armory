@@ -43,7 +43,7 @@ main image here
 * SRA-404 "Sulfur-EW" Electronic Warfare System
 
 ### Surface Launched Missiles
-[Image]
+![Image](https://wiki.kerbalpowers.org/images/5/58/KP_Armory_5.png)
 * MGM-30 Guided Rocket Launch System
 * MGM-140 Clustered Ammunition Rocket System
 * MGM-250 Precision Strike Rocket
